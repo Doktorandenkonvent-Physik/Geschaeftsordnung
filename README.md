@@ -1,9 +1,13 @@
+# Repository moved to
+# [git.scc.kit.edu/Physik-Doktoranden](https://git.scc.kit.edu/Physik-Doktoranden/Geschaeftsordnung)
+
+
+
 # Geschäftsordnung des Doktorandenkonvent Physik am KIT
 
 Dieses Repository dient zur Entwicklung und zeitlichen Verfolgung der Geschäftsordnung des Doktorandenkonvents an Physik am KIT.
 
-Ein PDF des aktuellen Stands:
-[![PDF Status](https://www.sharelatex.com/github/repos/Doktorandenkonvent-Physik/Geschaeftsordnung/builds/latest/badge.svg)](https://www.sharelatex.com/github/repos/Doktorandenkonvent-Physik/Geschaeftsordnung/builds/latest/output.pdf)
+Ein PDF des aktuellen Stands gibt es auf der [offiziellen Seite](http://www.khys.kit.edu/doktorandenkonvent-physik/70.php)
 
 Übergeordnet sind 
 * [LHG](http://www.landesrecht-bw.de/jportal/portal/t/7d1/page/bsbawueprod.psml?pid=Dokumentanzeige&showdoccase=1&js_peid=Trefferliste&fromdoctodoc=yes&doc.id=jlr-HSchulGBWrahmen&doc.part=X&doc.price=0.0&doc.hl=0#jlr-HSchulGBWV19P38-jlr-HSchulGBWV17P38-jlr-HSchulGBWV18P38)
